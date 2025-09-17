@@ -34,20 +34,20 @@ Aplikasi ini dibuat untuk mengelola arsip surat masuk/keluar secara digital. Den
 ## Screenshot
 
 ### Halaman About
-![About](https://raw.githubusercontent.com/gadingss/arsip_surat/main/screenshot/about.png)
+![About](public/uploads/screenshot/about.png)
 
 ### Buat Kategori
-![Create Kategori](https://raw.githubusercontent.com/gadingss/arsip_surat/main/screenshot/create_kategori.png)
+![Create Kategori](public/uploads/screenshot/create_kategori.png)
 
 ### Buat Surat
-![Create Surat](https://raw.githubusercontent.com/gadingss/arsip_surat/main/screenshot/create_surat.png)
+![Create Surat](public/uploads/screenshot/create_surat.png)
 
 ### Daftar Kategori
-![Index Kategori](https://raw.githubusercontent.com/gadingss/arsip_surat/main/screenshot/index_kategori.png)
+![Index Kategori](public/uploads/screenshot/index_kategori.png)
 
 ### Daftar Surat
-![Index Surat](https://raw.githubusercontent.com/gadingss/arsip_surat/main/screenshot/index_surat.png)
+![Index Surat](public/uploads/screenshot/index_surat.png)
 
 ### Lihat Surat
-![Lihat Surat](https://raw.githubusercontent.com/gadingss/arsip_surat/main/screenshot/lihat_surat.png)
+![Lihat Surat](public/uploads/screenshot/lihat_surat.png)
 
